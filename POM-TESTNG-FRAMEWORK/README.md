@@ -1,5 +1,12 @@
 # POM-TESTNG-FRAMEWORK
 
+In this Page object framework
+
+ page objects are written under : ⁨POM-TESTNG-FRAMEWORK⁩ ▸ ⁨TestNGFramework⁩ ▸ ⁨src⁩ ▸ ⁨main⁩ ▸ ⁨java⁩ ▸ ⁨com⁩ ▸ ⁨BetterWorks⁩
+ Test are written under : POM-TESTNG-FRAMEWORK⁩ ▸ ⁨TestNGFramework⁩ ▸ ⁨src⁩ ▸ ⁨test⁩ ▸ ⁨java⁩ ▸ ⁨com⁩ ▸ ⁨betterWorks⁩ ▸ ⁨tests⁩
+
+
+
 Features Supported by this framework :
   1. Page Object Method Pattern
   2. TestNG - Running files using testng xml.
